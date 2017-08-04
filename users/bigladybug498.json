@@ -3,13 +3,14 @@
   "name": {
     "title": "mrs",
     "first": "jackie",
-    "last": "medina"
+    "last": "medina",
+    "full": "Jackie Medina"
   },
   "location": {
-    "street": "1236 preston rd",
-    "city": "santa maria",
-    "state": "new mexico",
-    "zip": "23420"
+    "street": "1236 Preston Rd",
+    "city": "Santa Maria",
+    "state": "Ha Noi",
+    "zip": "Ha Noi"
   },
   "email": "jackie.medina91@example.com",
   "username": "bigladybug498",
